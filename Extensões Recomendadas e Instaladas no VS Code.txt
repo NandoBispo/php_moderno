@@ -1,0 +1,5 @@
+Extensões Recomendadas e Instaladas no VS Code:
+- Portuguese (Brazil) Language Pack
+- PHP Intelephense
+- Format HTML in PHP
+- PHP Awesome Snippets
